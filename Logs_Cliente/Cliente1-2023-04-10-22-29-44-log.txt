@@ -1,0 +1,2 @@
+Archivo recibido: ArchivosRecibidos/Client-1-Prueba-2.txt | Tamaño: 104513536
+Tiempo de transferencia: 0.52s

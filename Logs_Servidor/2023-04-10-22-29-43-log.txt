@@ -1,0 +1,4 @@
+Archivo enviado: 100MB.txt | Tamaño: 104857600
+Archivo enviado: 100MB.txt | Tamaño: 104857600
+Cliente: ('127.0.0.1', 55648) | Tiempo de transferencia: 0.52s
+Cliente: ('127.0.0.1', 55647) | Tiempo de transferencia: 0.52s
